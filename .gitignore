@@ -1,0 +1,12 @@
+# Ignore RStudio project files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore renv environment files
+renv.lock
+renv/library
+
+# Ignore hidden system files
+.DS_Store
